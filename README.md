@@ -105,17 +105,6 @@
 - 💡 Open Source  
 - 🧠 Competitive Programming  
 
----
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/Soumyaroy428/Soumyaroy428/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 ## 🙏 Thank You for Visiting
 
 ⭐ Thank you for visiting my GitHub profile!  
