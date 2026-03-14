@@ -17,8 +17,6 @@
 
 - 🌐 Web Development  
 - 🤖 Artificial Intelligence / Machine Learning  
-- 💡 Open Source Projects  
-- 🧠 Competitive Programming  
 
 🚀 I love building **modern web applications and AI based solutions.**
 
