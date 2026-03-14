@@ -26,7 +26,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="[https://linkedin.com/in/Soumya Roy](https://img.shields.io/badge/LinkedIn-Soumya%20Roy-blue?style=for-the-badge)">
+<a href="https://www.linkedin.com/in/soumya-roy-b088a7337">
 <img src="https://img.shields.io/badge/LinkedIn-Soumya%20Roy-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
