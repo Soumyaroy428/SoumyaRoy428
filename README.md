@@ -51,13 +51,13 @@
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,ts,js"/>
+<img src="https://skillicons.dev/icons?i=java,ts,js,c"/>
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nextjs"/>
 </p>
 
 ### 🛢 Database & Backend
