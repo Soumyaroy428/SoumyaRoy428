@@ -39,7 +39,7 @@
 </a>
 
 <a href="https://linkedin.com/in/Soumya Roy">
-<img src="https://img.shields.io/badge/LinkedIn-Soumya%20Roy-blue?style=for-the-badge&logo=linkedin"/>
+<img src="www.linkedin.com/in/soumya-roy-b088a7337&logo=linkedin"/>
 </a>
 
 </p>
