@@ -106,8 +106,7 @@
 - 🧠 Competitive Programming  
 
 ---
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 
@@ -117,10 +116,14 @@
 
 ---
 
-# ⚡ Fun Fact
+## 🙏 Thank You for Visiting
 
-💡 **Coding is not just writing code — it's solving problems and building ideas into reality.**
+⭐ Thank you for visiting my GitHub profile!  
+
+💻 I enjoy building projects, learning new technologies, and contributing to open source.
+
+🚀 If you like my projects, consider **starring the repositories** and following my work!
 
 ---
 
-⭐ **If you like my projects, consider giving them a star!**
+⭐ **Have a great day and happy coding!**
