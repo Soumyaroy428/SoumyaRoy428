@@ -57,7 +57,7 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nextjs"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs"/>
 </p>
 
 ### 🛢 Database & Backend
